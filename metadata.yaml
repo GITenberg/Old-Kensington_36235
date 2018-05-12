@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34609
     wikipedia: http://en.wikipedia.org/wiki/Anne_Isabella_Thackeray_Ritchie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36235#Old-Kensington
 gutenberg_issued: '2011-05-27'
 gutenberg_type: Text
 identifiers:
