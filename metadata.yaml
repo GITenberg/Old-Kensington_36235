@@ -1,0 +1,32 @@
+_repo: Old-Kensington_36235
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36235-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ritchie, Anne Thackeray
+    aliases:
+    - Ritchie, Anne Isabella Thackeray, Lady
+    - Thackeray, Miss
+    - Thackeray, Anne Isabella
+    birthdate: 1837
+    deathdate: 1919
+    gutenberg_agent_id: '34609'
+    url: http://www.gutenberg.org/2009/agents/34609
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Isabella_Thackeray_Ritchie
+description: ''
+gutenberg_issued: '2011-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36235'
+  lccn: '12015049'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Kensington (London, England) -- Fiction'
+title: Old Kensington
+url: http://www.gutenberg.org/ebooks/36235
